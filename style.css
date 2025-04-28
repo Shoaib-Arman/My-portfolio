@@ -1,0 +1,16 @@
+/* CSS file */
+#typed-output {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #4A90E2;  /* Blue color for the text */
+    border-right: 3px solid #4A90E2;  /* Simulate typing cursor */
+    padding-right: 5px;
+}
+/* In your CSS file */
+#home img {
+    border-radius: 50%; /* Circular shape */
+    width: 120px; /* Size of the image */
+    height: 120px; /* Size of the image */
+    object-fit: cover; /* Ensure image fills the circle */
+    border: 4px solid #4A90E2; /* Blue border */
+}
